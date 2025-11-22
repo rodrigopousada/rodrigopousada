@@ -1,9 +1,8 @@
 
-## 👋 Olá! Eu sou o Felipe Muniz  
+## 👋 Olá! Eu sou o Rodrigo Pousada 
 
-💻 Estudante de Ciência da Computação  
-🧩 Estagiário de Suporte Técnico na PSA Tech  
-☕ Estudando **Java**, explorando o mundo do **Back-End**  
+💻 Estudante de Análise e Desenvolvimento de Sistemas 
+☕ Estudando **Java** 
 🚀 Apaixonado por tecnologia e inovação  
 
 ---
@@ -35,4 +34,4 @@
 
 ---
 
-⭐ *“Aprendendo algo novo a cada linha de código.”*
+🚀 **Sempre em construção.**
