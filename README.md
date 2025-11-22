@@ -29,7 +29,7 @@
 
 ### 📫 Contato
 📧 **rodrigopousada7@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-pousada-vieira-92b606208/) 
+💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-pousada-92b606208/)
 
 ---
 
